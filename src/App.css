@@ -1,0 +1,22 @@
+.center {
+  margin: auto;
+  margin-top: 50px;
+  width: 30%;
+  padding: 10px;
+  background-color: rgb(216, 218, 218);
+}
+
+.app {
+  margin: auto;
+  padding: 30px;
+  width: 70%;
+  margin-top: 50px;
+  background-color: rgb(216, 218, 218);
+}
+
+.todo {
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+  justify-content: space-between;
+}
